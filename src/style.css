@@ -1,0 +1,33 @@
+.game-field {
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  margin-top: 90px;
+  border: solid;
+  background: rgb(122, 138, 204);
+}
+
+.field {
+  box-sizing: border-box;
+  width: 25%;
+  height: 25%;
+  border: solid;
+}
+
+.character {
+  width: 100%;
+}
+
+.points {
+  display: flex;
+  margin: auto;
+  margin-top: 50px;
+  width: 600px;
+}
+
+.points_count {
+  margin-left: 10px;
+}
+

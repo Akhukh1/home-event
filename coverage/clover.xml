@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1703498334846" clover="3.2.0">
+  <project timestamp="1703498334846" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="11" coveredelements="11" complexity="0" loc="9" ncloc="9" packages="1" files="2" classes="2"/>
+    <file name="generatNuberField.js" path="C:\Users\akeks\Desktop\home-event\src\js\generatNuberField.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+    </file>
+    <file name="renderingField.js" path="C:\Users\akeks\Desktop\home-event\src\js\renderingField.js">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="32" type="stmt"/>
+      <line num="7" count="32" type="stmt"/>
+      <line num="8" count="32" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
